@@ -64,3 +64,9 @@ strong {
   font-family: 'Lobster', cursive;
   font-size: 30px
 }
+
+
+.delay{
+  animation-delay: 3s;
+}
+
